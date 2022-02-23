@@ -66,7 +66,7 @@ SELECT a.Name,
        t.amtsold,
        g.Name Genre,
        tgm.cg,
-       coalesce(tcnpg.cnpg, 0),
+       coalesce(tcnpg.cnpg, 0) cnpg,
        tcpg.cpg
 FROM TGM
 LEFT JOIN tcnpg ON tgm.ArtistId = tcnpg.ArtistId

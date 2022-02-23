@@ -1,11 +1,11 @@
-Name,amtsold,Name,cg
-Iron Maiden,140,Metal,70
-U2,107,Rock,91
-Metallica,91,Metal,91
-Led Zeppelin,87,Rock,87
-Os Paralamas Do Sucesso,45,Latin,45
-Deep Purple,44,Rock,44
-Faith No More,42,Alternative & Punk,33
-Lost,41,TV Shows,23
-Eric Clapton,40,Blues,27
-R.E.M.,39,Alternative & Punk,25
+Name,amtsold,Genre,cg,"cnpg",cpg
+Iron Maiden,140,Metal,70,118,95
+U2,107,Rock,91,23,112
+Metallica,91,Metal,91,0,112
+Led Zeppelin,87,Rock,87,0,114
+Os Paralamas Do Sucesso,45,Latin,45,0,49
+Deep Purple,44,Rock,44,0,92
+Faith No More,42,Alternative & Punk,33,15,37
+Lost,41,TV Shows,23,44,48
+Eric Clapton,40,Blues,27,16,32
+R.E.M.,39,Alternative & Punk,25,14,27
